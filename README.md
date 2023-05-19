@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kunal Rawat</h1>
+<center>
+  <h1 align="center">Hi 👋, I'm Kunal Rawat</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 <img src="https://media3.giphy.com/media/SHjOSDkKZ18qOHA5B5/200.webp?cid=ecf05e47wdgvw2xgwaqvagdj7faccwibo5lg6edscxi3pbr8&ep=v1_stickers_search&rid=200.webp&ct=s" width='400px'>
@@ -31,3 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-rawat22&show_icons=true&locale=en&layout=compact" alt="kunal-rawat22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-rawat22&" alt="kunal-rawat22" /></p>
+<center>
